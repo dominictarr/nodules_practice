@@ -1,0 +1,9 @@
+{"name": "nodules_practive",
+        "mappings": {
+					"hello_node": "./lib/hello_node.js"
+        },
+    "version": "0.1",
+    "description": "An example package for web-modules",
+    "author": "Dominic Tarr"
+}
+
